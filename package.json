@@ -1,5 +1,5 @@
 {
-  "name": "node-examples",
+  "name": "examples",
   "version": "1.0.0",
   "description": "simple node examples",
   "main": "index.js",
@@ -8,5 +8,13 @@
     "start": "node index"
   },
   "author": "Vaibhav Khatod",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibs30/Server-side.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vaibs30/Server-side/issues"
+  },
+  "homepage": "https://github.com/vaibs30/Server-side#readme"
 }
